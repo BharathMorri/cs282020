@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.3.6)  27 MAR 2023 11:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.3.6)  29 MAR 2023 06:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -439,11 +439,6 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 \Gin@req@height=\dimen192
 \Gin@req@width=\dimen193
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
-ge
-with kernel methods
-)
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
@@ -532,6 +527,12 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6372.
 Package hyperref Info: PDF/A mode OFF on input line 6377.
 LaTeX Info: Redefining \ref on input line 6417.
 LaTeX Info: Redefining \pageref on input line 6421.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
 \Hy@abspage=\count296
 \c@Item=\count297
 \c@Hfootnote=\count298
@@ -953,41 +954,34 @@ Package circuitikz Warning: You did not specify one of the voltage directions:
 (circuitikz)                Default directions may have changed, 
 (circuitikz)                please check the manual.
 
+(/usr/share/texlive/texmf-dist/tex/latex/karnaugh-map/karnaugh-map.sty
+Package: karnaugh-map 2017/02/20 v1.1 Draw Karnaugh Maps
 
-! LaTeX Error: File `karnauigh-map.sty' not found.
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-01-09 L3 programming layer (loader) 
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count327
+\l__pdf_internal_box=\box67
+))
+Package: xparse 2020-10-27 L3 Experimental document command parser
 
-Enter file name: cs282020.tex
-(./cs282020.tex
-
-! LaTeX Error: Two \documentclass or \documentstyle commands.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 \documentclass[journal,12pt,twocolumn]{
-                                           IEEEtran}
-? 
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 \usepackage
-                [parfill]{parskip}
-? 
-
-! LaTeX Error: File `karnauigh-map.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: 
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count328
+\decimalpart=\count329
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+\@karnaughmap@var@colorindex@=\count330
+)
 (/usr/share/texlive/texmf-dist/tex/latex/breakurl/breakurl.sty
 Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
 
@@ -999,7 +993,7 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 \XKV@toks=\toks41
 \XKV@tempa@toks=\toks42
 )
-\XKV@depth=\count327
+\XKV@depth=\count331
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
@@ -1017,59 +1011,48 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
 \col@sep=\dimen327
-\ar@mcellbox=\box67
+\ar@mcellbox=\box68
 \extrarowheight=\dimen328
 \NC@list=\toks43
 \extratabsurround=\skip72
 \backup@length=\skip73
-\ar@cellbox=\box68
+\ar@cellbox=\box69
 )
 \TX@col@width=\dimen329
 \TX@old@table=\dimen330
 \TX@old@col=\dimen331
 \TX@target=\dimen332
 \TX@delta=\dimen333
-\TX@cols=\count328
+\TX@cols=\count332
 \TX@ftn=\toks44
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ncctools/watermark.sty
 Package: watermark 2004/12/09 v1.1 Watermarks (NCC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-01-09 L3 programming layer (loader) 
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count329
-\l__pdf_internal_box=\box69
-))
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2020-10-27 L3 Experimental document command parser
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))
 Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+
 (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
 File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count330
+\lst@mode=\count333
 \lst@gtempboxa=\box70
 \lst@token=\toks45
-\lst@length=\count331
+\lst@length=\count334
 \lst@currlwidth=\dimen334
-\lst@column=\count332
-\lst@pos=\count333
+\lst@column=\count335
+\lst@pos=\count336
 \lst@lostspace=\dimen335
 \lst@width=\dimen336
-\lst@newlines=\count334
-\lst@lineno=\count335
+\lst@newlines=\count337
+\lst@lineno=\count338
 \lst@maxwidth=\dimen337
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count336
-\lst@skipnumbers=\count337
+\c@lstnumber=\count339
+\lst@skipnumbers=\count340
 \lst@framebox=\box71
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
@@ -1079,7 +1062,7 @@ Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count338
+\c@float@type=\count341
 \float@exts=\toks46
 \float@box=\box72
 \@float@everytoks=\toks47
@@ -1103,128 +1086,128 @@ Package titlesec Warning: Non standard sectioning command \subparagraph
 
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-96.
+92.
  (/usr/share/texmf/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (./cs282020.aux)
 \openout1 = `cs282020.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 96.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 92.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
-96.
+92.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 92.
 LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
-96.
+92.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 92.
 LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
-96.
+92.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 92.
 LaTeX Font Info:    Trying to load font information for U+txexa on input line 9
-6.
+2.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 9
-6.
+2.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 92.
 LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <6> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 92.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <8> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 92.
 LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <8> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 92.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <9> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 92.
 LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <9> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 92.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 92.
 LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <10> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 92.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <12> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 92.
 LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <12> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 92.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <14> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 92.
 LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <14> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 92.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <20> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 92.
 LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <20> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 92.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <22> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 92.
 LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <22> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 92.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <24> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 92.
 LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <24> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 96.
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 92.
 
 
 -- Lines per column: 50 (exact).
-LaTeX Info: Redefining \celsius on input line 96.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 96.
+LaTeX Info: Redefining \celsius on input line 92.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 92.
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 96.
-Package gensymb Info: Using \Omega for \ohm on input line 96.
+LaTeX Info: Redefining \ohm on input line 92.
+Package gensymb Info: Using \Omega for \ohm on input line 92.
 
 Package gensymb Warning: Not defining \micro.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count339
+\scratchcounter=\count342
 \scratchdimen=\dimen343
 \scratchbox=\box75
-\nofMPsegments=\count340
-\nofMParguments=\count341
+\nofMPsegments=\count343
+\nofMParguments=\count344
 \everyMPshowfont=\toks49
-\MPscratchCnt=\count342
+\MPscratchCnt=\count345
 \MPscratchDim=\dimen344
-\MPnumerator=\count343
-\makeMPintoPDFobject=\count344
+\MPnumerator=\count346
+\makeMPintoPDFobject=\count347
 \everyMPtoPDFconversion=\toks50
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1246,7 +1229,7 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 96.
+Package hyperref Info: Link coloring ON on input line 92.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1257,189 +1240,171 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count345
+\c@section@level=\count348
 )
-LaTeX Info: Redefining \ref on input line 96.
-LaTeX Info: Redefining \pageref on input line 96.
-LaTeX Info: Redefining \nameref on input line 96.
+LaTeX Info: Redefining \ref on input line 92.
+LaTeX Info: Redefining \pageref on input line 92.
+LaTeX Info: Redefining \nameref on input line 92.
 
 (./cs282020.out) (./cs282020.out)
 \@outlinefile=\write4
 \openout4 = `cs282020.out'.
 
-\c@lstlisting=\count346
-\c@theorem=\count347
-\c@problem=\count348
-\c@proposition=\count349
-\c@lemma=\count350
-\c@example=\count351
-\c@definition=\count352
-Package ltshipout Info: Completed page discarded on input line 115.
+\c@lstlisting=\count349
+\c@theorem=\count350
+\c@problem=\count351
+\c@proposition=\count352
+\c@lemma=\count353
+\c@example=\count354
+\c@definition=\count355
 
 
 LaTeX Font Warning: Font shape `OT1/lmss/m/sc' in size <12> not available
-(Font)              Font shape `OT1/lmr/m/sc' tried instead on input line 115.
+(Font)              Font shape `OT1/lmr/m/sc' tried instead on input line 111.
 
 (./cs282020.toc)
 \tf@toc=\write5
 \openout5 = `cs282020.toc'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--143
+Underfull \hbox (badness 10000) in paragraph at lines 114--139
 []\OT1/lmss/m/n/12 Consider the Boolean func-tion z(a,b,c)
  []
 
 
-Overfull \hbox (6.00107pt too wide) in paragraph at lines 118--143
+Overfull \hbox (6.00107pt too wide) in paragraph at lines 114--139
 []
  []
 
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-43.
+39.
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-143.
+139.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-143.
+139.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 143.
+(Font)              <12> on input line 139.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 143.
+(Font)              <8> on input line 139.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 143.
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 14
-3.
+(Font)              <6> on input line 139.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 13
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for OT1+txr on input line 1
-43.
+39.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 1
-43.
+39.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsya on input line 1
-43.
+39.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyb on input line 1
-43.
+39.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
-43.
+39.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-Overfull \hbox (7.31776pt too wide) in paragraph at lines 167--167
+Overfull \hbox (7.31776pt too wide) in paragraph at lines 163--163
  []|\OT1/lmss/bx/n/12 Component| 
  []
 
 
-Overfull \hbox (7.64922pt too wide) in paragraph at lines 167--167
+Overfull \hbox (7.64922pt too wide) in paragraph at lines 163--163
  []|\OT1/lmss/m/n/12 JumperWires| 
  []
 
 
-Overfull \hbox (15.36346pt too wide) in paragraph at lines 202--203
+Overfull \hbox (15.36346pt too wide) in paragraph at lines 198--199
 [][] 
  []
 
 
-Overfull \hbox (54.36105pt too wide) in paragraph at lines 228--229
+Overfull \hbox (54.36105pt too wide) in paragraph at lines 224--225
 [][] 
  []
 
 
-Overfull \hbox (15.36346pt too wide) in paragraph at lines 248--249
+Overfull \hbox (15.36346pt too wide) in paragraph at lines 244--245
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--259
+Underfull \hbox (badness 10000) in paragraph at lines 250--255
 
  []
 
-[2{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
 
 ]
-Overfull \hbox (102.24527pt too wide) in paragraph at lines 260--261
-[]\OT1/lmss/bx/n/12 https://github.com/BharathMorri/cs282020/blob/main/asg.cpp 
-
+Overfull \hbox (15.36346pt too wide) in paragraph at lines 262--263
+[][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
+Underfull \hbox (badness 10000) in paragraph at lines 264--266
 
  []
 
+[2
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--264
-
- []
-
-[3
-
-]
-
-! Package hooks Error: Missing \PopDefaultHookLabel.
-(hooks)                The label `karnauigh-map' was pushed but never
-(hooks)                popped. Something is wrong.
-
-Type <return> to continue.
- ...                                              
-                                                  
-l.264 \end{document}
-                    
-? 
-(./cs282020.aux)
+] (./cs282020.aux)
 Package rerunfilecheck Info: File `cs282020.out' has not changed.
 (rerunfilecheck)             Checksum: BA1AE7BCBCF5127F5DA7553493772461;233.
- ) )
-(\end occurred when \ifx on line 39 was incomplete) 
+ ) 
 Here is how much of TeX's memory you used:
- 36822 strings out of 479304
- 833270 string characters out of 5869780
- 1476066 words of memory out of 5000000
- 53424 multiletter control sequences out of 15000+600000
+ 37213 strings out of 479304
+ 840458 string characters out of 5869780
+ 1491780 words of memory out of 5000000
+ 53804 multiletter control sequences out of 15000+600000
  558177 words of font info for 137 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 87i,8n,89p,1214b,788s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/
-dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/sha
-re/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/
-lm-rmsc.enc}</usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/tex
-mf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmm
-i12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fon
-ts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pf
-b></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/typ
-e1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.pfb>
-Output written on cs282020.pdf (2 pages, 150754 bytes).
+ 87i,8n,89p,1197b,788s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-rmsc.enc}</usr/share/texmf/fonts/type1/public/
+lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/t
+exmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/l
+mr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/f
+onts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.p
+fb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts
+/type1/public/lm/lmsso12.pfb>
+Output written on cs282020.pdf (2 pages, 150776 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
+ 94 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
 

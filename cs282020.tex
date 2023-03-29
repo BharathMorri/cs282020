@@ -25,17 +25,13 @@
 
 
 \usepackage{graphicx}
-\usepackage{atbegshi} 
-%http://ctan.org/pkg/atbegshi 
-\AtBeginDocument{\AtBeginShipoutNext{\AtBeginShipoutDiscard}} 
-%
 \graphicspath{{./images/}}
 \usepackage[colorlinks,linkcolor={black},citecolor={blue!80!black},urlcolor={blue!80!black}]{hyperref}
 \usepackage[parfill]{parskip}
 \usepackage{lmodern}
 \usepackage{tikz}
 \usepackage{circuitikz}
-\usepackage{karnauigh-map}
+\usepackage{karnaugh-map}
 \usepackage{pgf}
 \usepackage[hyphenbreaks]{breakurl}
 
@@ -257,7 +253,13 @@ Fig. 1
     4. Connect inputs to Vcc for logic 1, ground for logic 0.\\
     5. Execute the circuit using the below code.\\
    
-   \textbf{https://github.com/BharathMorri/cs282020/blob/main/asg.cpp}\\
+\begin{tabularx}{0.46\textwidth} { 
+  | >{\centering\arraybackslash}X |}
+  \hline
+  https://github.com/BharathMorri\\
+	/cs282020/blob/main/asg.cpp\\
+  \hline
+\end{tabularx}
    
 6. Change the values of a,b,c in the code and verify the Truth Table.\\
 \bibliographystyle{ieeetr}
