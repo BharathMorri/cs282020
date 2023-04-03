@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.3.6)  29 MAR 2023 06:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.3.6)  3 APR 2023 07:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1266,101 +1266,106 @@ LaTeX Font Warning: Font shape `OT1/lmss/m/sc' in size <12> not available
 \tf@toc=\write5
 \openout5 = `cs282020.toc'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--139
-[]\OT1/lmss/m/n/12 Consider the Boolean func-tion z(a,b,c)
+ (./figs/figs.tex)
+Overfull \hbox (6.00107pt too wide) in paragraph at lines 22--117
+[][]
  []
 
 
-Overfull \hbox (6.00107pt too wide) in paragraph at lines 114--139
-[]
+Underfull \hbox (badness 10000) in paragraph at lines 22--117
+
  []
 
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-39.
+20.
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-139.
+120.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-139.
+120.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 139.
+(Font)              <12> on input line 120.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 139.
+(Font)              <8> on input line 120.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 139.
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 13
-9.
+(Font)              <6> on input line 120.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 12
+0.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for OT1+txr on input line 1
-39.
+20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 1
-39.
+20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsya on input line 1
-39.
+20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyb on input line 1
-39.
+20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
-39.
+20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-Overfull \hbox (7.31776pt too wide) in paragraph at lines 163--163
+Overfull \hbox (7.31776pt too wide) in paragraph at lines 144--144
  []|\OT1/lmss/bx/n/12 Component| 
  []
 
 
-Overfull \hbox (7.64922pt too wide) in paragraph at lines 163--163
+Overfull \hbox (7.64922pt too wide) in paragraph at lines 144--144
  []|\OT1/lmss/m/n/12 JumperWires| 
  []
 
 
-Overfull \hbox (15.36346pt too wide) in paragraph at lines 198--199
+Overfull \hbox (15.36346pt too wide) in paragraph at lines 179--180
+[][] 
+ []
+
+(./figs/figs.tex)
+Overfull \hbox (6.00107pt too wide) in paragraph at lines 22--186
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--186
+
+ []
+
+
+Overfull \hbox (15.36346pt too wide) in paragraph at lines 205--206
 [][] 
  []
 
 
-Overfull \hbox (54.36105pt too wide) in paragraph at lines 224--225
-[][] 
- []
-
-
-Overfull \hbox (15.36346pt too wide) in paragraph at lines 244--245
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--255
+Underfull \hbox (badness 10000) in paragraph at lines 211--216
 
  []
 
@@ -1369,29 +1374,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 250--255
 
 
 ]
-Overfull \hbox (15.36346pt too wide) in paragraph at lines 262--263
+Overfull \hbox (15.36346pt too wide) in paragraph at lines 223--224
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--266
+Underfull \hbox (badness 10000) in paragraph at lines 225--227
 
  []
 
 [2
 
 ] (./cs282020.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `cs282020.out' has not changed.
 (rerunfilecheck)             Checksum: BA1AE7BCBCF5127F5DA7553493772461;233.
  ) 
 Here is how much of TeX's memory you used:
- 37213 strings out of 479304
- 840458 string characters out of 5869780
+ 37230 strings out of 479304
+ 840691 string characters out of 5869780
  1491780 words of memory out of 5000000
- 53804 multiletter control sequences out of 15000+600000
+ 53813 multiletter control sequences out of 15000+600000
  558177 words of font info for 137 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 87i,8n,89p,1197b,788s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 87i,9n,89p,1197b,929s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-rmsc.enc}</usr/share/texmf/fonts/type1/public/
@@ -1401,10 +1409,10 @@ mr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.p
 fb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmsso12.pfb>
-Output written on cs282020.pdf (2 pages, 150776 bytes).
+Output written on cs282020.pdf (2 pages, 150507 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
+ 96 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
